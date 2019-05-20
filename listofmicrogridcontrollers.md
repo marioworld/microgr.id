@@ -8,7 +8,7 @@ Below is a list of microgrid control systems. *Updated: May 13, 2019*
 
 Manufacturer | Link | Info / Datasheet | From the manufacturer
 --- | --- | --- | --- | ---
-ABB	| [Microgrid Plus Control System](https://new.abb.com/distributed-energy-microgrids/our-offering/microgrid-plus-system) | N/A	| Networked control system for microgrids, responsible for coordinating the operation of different generation sources and loads.
+ABB	| [Microgrid Plus Control System](https://new.abb.com/distributed-energy-microgrids/our-offering/microgrid-plus-system){:target="_blank"} | N/A	| Networked control system for microgrids, responsible for coordinating the operation of different generation sources and loads.
 Ageto | [ARC](https://www.agetoenergy.com/arc.html) |	N/A	 | Microgrid controller compatible with these [resources](https://www.agetoenergy.com/energy-resources.html)
 CleanSpark | [MPulse Grid Management](https://cleanspark.com/grid-management/) |	N/A	| Software and controls package collects, archives and analyzes data 24/7 providing real-time control and reporting, ensuring that your projects are performing according to the DNA PowerPlan
 CSEISMIC (Oakridge National Lab) | CSEISMIC | [Github Repository](https://github.com/ORNLPES/CSEISMIC) | This is an open source microgrid developed by the Oakridge Nartional Lab

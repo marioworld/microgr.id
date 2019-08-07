@@ -8,7 +8,7 @@ permalink: /communityenergyaudit/
 
 **Executive Summary:**
 
-Local communities in Puerto Rico have an urgent need for more reliable and affordable electricity. Groups like ACEPR (Aceleradora de coóperativos de enérgia en Puerto Rico) are empowering communities to take ownership and control of their energy futures, with the creation renewable energy microgrids and other types of resilient electrical systems. 
+Local communities in Puerto Rico have an urgent need for more reliable and affordable electricity. Groups like [ACEPR](https://www.acepr.org){:target="_blank"} (Aceleradora de coóperativos de enérgia en Puerto Rico) are empowering communities to take ownership and control of their energy futures, with the creation renewable energy microgrids and other types of resilient electrical systems. 
 
 The first step is to evaluate the energy needs and scope of each community project. ACEPR believes that electrical customers in the community will be best served by a competitive process for grid improvement, in the form of an RFP (request for proposal). This would allow a range of EPCs (Engineer procurement contractors) to apply, ultimately resulting in more available options for the community.
 

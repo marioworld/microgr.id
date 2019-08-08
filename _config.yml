@@ -16,7 +16,7 @@
 title: microgr.id
 email: info@microgr.id
 description: >- # this means to ignore newlines until "baseurl:"
-  This website is an educational resource to share useful information about microgrids.
+  Stay tuned for our new website coming soon!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://microgr.id/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
